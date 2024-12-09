@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYCOpenjobs</string>
+    <string name="job_listing_not_available_at_this_time">Job listing not available at this time</string>
+    <string name="job_listing_loaded">Job listing loaded</string>
+</resources>
