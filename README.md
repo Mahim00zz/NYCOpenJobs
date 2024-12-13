@@ -32,8 +32,8 @@ Welcome to the **Job Search App**! This application allows users to browse and s
     - **Favorite Icon ❤️:** A "Favorite" icon lets users add the current job to their favorites list.
 
 ## Screenshots 📸
+![Screenshot 2024-12-12 233416](https://github.com/user-attachments/assets/0d07f281-c2dc-491d-b491-6ff819aa2024)
 
-Include relevant screenshots here to showcase the layout and main features of the app, such as the Home Page, Favorite Page, and Detail Page.
 
 ## Technologies Used 💻
 
@@ -72,3 +72,23 @@ Ensure that you have the following installed on your machine:
    ```bash
    git clone https://github.com/Mahim00zz/NYCOpenJobs.git
    cd NYCOpenJobs
+2. Open Project in Android Studio:
+
+**Launch Android Studio and select Open an existing project.**
+**Navigate to your cloned project directory.**
+
+3.Sync Gradle:
+
+**Android Studio will automatically download required dependencies and sync them using Gradle. If prompted, allow Gradle to sync.**
+
+### Running the App
+1. Start Android Emulator:
+
+  **Use the Android Emulator provided in Android Studio or connect a physical Android device.**
+
+2. Build and Run the App:
+
+  **In Android Studio, click the Run button, or use the following command in your terminal**
+   
+
+
